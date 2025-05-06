@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedalbarazi" alt="mohammedalbarazi" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning-Based Intrusion Detection**
+- 🔭 I’m currently working on **Machine Learning-Based Intrusion Detection** https://hmalsayed863.github.io/ML-Project-Web/
 
 - 🌱 I’m currently learning **Machine learning, Numerical Analysis, Software engineering, and internet of things.**
 
